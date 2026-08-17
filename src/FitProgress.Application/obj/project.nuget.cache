@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "F99ekqK8VPM=",
+  "success": true,
+  "projectFilePath": "/home/faber/Documents/Projetos/Aprendizado/IA/dev-spec-kit/FitProgress/src/FitProgress.Application/FitProgress.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/faber/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.11/microsoft.extensions.dependencyinjection.abstractions.10.0.11.nupkg.sha512",
+    "/home/faber/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.11/microsoft.extensions.logging.abstractions.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

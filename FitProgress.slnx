@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FitProgress.Api/FitProgress.Api.csproj" />
+    <Project Path="src/FitProgress.Application/FitProgress.Application.csproj" />
+    <Project Path="src/FitProgress.Domain/FitProgress.Domain.csproj" />
+    <Project Path="src/FitProgress.Infrastructure/FitProgress.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/FitProgress.IntegrationTests/FitProgress.IntegrationTests.csproj" />
+    <Project Path="tests/FitProgress.UnitTests/FitProgress.UnitTests.csproj" />
+  </Folder>
+</Solution>

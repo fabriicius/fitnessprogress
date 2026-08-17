@@ -1,0 +1,17 @@
+/home/faber/Documents/Projetos/Aprendizado/IA/dev-spec-kit/FitProgress/src/FitProgress.Infrastructure/bin/Debug/net10.0/FitProgress.Infrastructure.deps.json
+/home/faber/Documents/Projetos/Aprendizado/IA/dev-spec-kit/FitProgress/src/FitProgress.Infrastructure/bin/Debug/net10.0/FitProgress.Infrastructure.dll
+/home/faber/Documents/Projetos/Aprendizado/IA/dev-spec-kit/FitProgress/src/FitProgress.Infrastructure/bin/Debug/net10.0/FitProgress.Infrastructure.pdb
+/home/faber/Documents/Projetos/Aprendizado/IA/dev-spec-kit/FitProgress/src/FitProgress.Infrastructure/bin/Debug/net10.0/FitProgress.Application.dll
+/home/faber/Documents/Projetos/Aprendizado/IA/dev-spec-kit/FitProgress/src/FitProgress.Infrastructure/bin/Debug/net10.0/FitProgress.Domain.dll
+/home/faber/Documents/Projetos/Aprendizado/IA/dev-spec-kit/FitProgress/src/FitProgress.Infrastructure/bin/Debug/net10.0/FitProgress.Domain.pdb
+/home/faber/Documents/Projetos/Aprendizado/IA/dev-spec-kit/FitProgress/src/FitProgress.Infrastructure/bin/Debug/net10.0/FitProgress.Application.pdb
+/home/faber/Documents/Projetos/Aprendizado/IA/dev-spec-kit/FitProgress/src/FitProgress.Infrastructure/obj/Debug/net10.0/FitProgress.Infrastructure.csproj.AssemblyReference.cache
+/home/faber/Documents/Projetos/Aprendizado/IA/dev-spec-kit/FitProgress/src/FitProgress.Infrastructure/obj/Debug/net10.0/FitProgress.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/faber/Documents/Projetos/Aprendizado/IA/dev-spec-kit/FitProgress/src/FitProgress.Infrastructure/obj/Debug/net10.0/FitProgress.Infrastructure.AssemblyInfoInputs.cache
+/home/faber/Documents/Projetos/Aprendizado/IA/dev-spec-kit/FitProgress/src/FitProgress.Infrastructure/obj/Debug/net10.0/FitProgress.Infrastructure.AssemblyInfo.cs
+/home/faber/Documents/Projetos/Aprendizado/IA/dev-spec-kit/FitProgress/src/FitProgress.Infrastructure/obj/Debug/net10.0/FitProgress.Infrastructure.csproj.CoreCompileInputs.cache
+/home/faber/Documents/Projetos/Aprendizado/IA/dev-spec-kit/FitProgress/src/FitProgress.Infrastructure/obj/Debug/net10.0/FitProgr.B047A196.Up2Date
+/home/faber/Documents/Projetos/Aprendizado/IA/dev-spec-kit/FitProgress/src/FitProgress.Infrastructure/obj/Debug/net10.0/FitProgress.Infrastructure.dll
+/home/faber/Documents/Projetos/Aprendizado/IA/dev-spec-kit/FitProgress/src/FitProgress.Infrastructure/obj/Debug/net10.0/refint/FitProgress.Infrastructure.dll
+/home/faber/Documents/Projetos/Aprendizado/IA/dev-spec-kit/FitProgress/src/FitProgress.Infrastructure/obj/Debug/net10.0/FitProgress.Infrastructure.pdb
+/home/faber/Documents/Projetos/Aprendizado/IA/dev-spec-kit/FitProgress/src/FitProgress.Infrastructure/obj/Debug/net10.0/ref/FitProgress.Infrastructure.dll

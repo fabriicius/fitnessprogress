@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "uOf3Wiblzt4=",
+  "success": true,
+  "projectFilePath": "/home/faber/Documents/Projetos/Aprendizado/IA/dev-spec-kit/FitProgress/src/FitProgress.Api/FitProgress.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/faber/.nuget/packages/dapper/2.1.66/dapper.2.1.66.nupkg.sha512",
+    "/home/faber/.nuget/packages/dbup-core/6.1.1/dbup-core.6.1.1.nupkg.sha512",
+    "/home/faber/.nuget/packages/dbup-postgresql/7.0.1/dbup-postgresql.7.0.1.nupkg.sha512",
+    "/home/faber/.nuget/packages/microsoft.aspnetcore.openapi/10.0.10/microsoft.aspnetcore.openapi.10.0.10.nupkg.sha512",
+    "/home/faber/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512",
+    "/home/faber/.nuget/packages/npgsql/10.0.3/npgsql.10.0.3.nupkg.sha512",
+    "/home/faber/.nuget/packages/npgsql.dependencyinjection/10.0.3/npgsql.dependencyinjection.10.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "/home/faber/Documents/Projetos/Aprendizado/IA/dev-spec-kit/FitProgress/src/FitProgress.Api/FitProgress.Api.csproj",
+      "warningLevel": 1,
+      "filePath": "/home/faber/Documents/Projetos/Aprendizado/IA/dev-spec-kit/FitProgress/src/FitProgress.Api/FitProgress.Api.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

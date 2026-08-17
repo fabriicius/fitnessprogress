@@ -1,0 +1,6 @@
+@FitProgress.Api_HostAddress = http://localhost:5133
+
+GET {{FitProgress.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
